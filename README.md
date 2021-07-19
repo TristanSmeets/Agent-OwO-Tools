@@ -1,4 +1,6 @@
 # Agent OwO Tools
+![](Images/tools-thumb.jpg)
+
 ### Description
 For the assignment that turned into Agent OwO we had to create a game using our own c++ engine. This also meant there were no GUI editors available for the engine. For more info on the Agent OwO project see the [Agent OwO repository][1].
 
@@ -10,7 +12,9 @@ I made a tool that would write game objects with a specific monobehaviour to a l
 #### Grid Generator
 The grid generator allowed the designers to quickly create 2D grids by passing in the amount of rows and columns. Additionaly designers could specify how many and where gameplay objects were supposed to be placed on the grid. This allowed the designers to quickly iterate on the levels.
 
+<img src="https://raw.githubusercontent.com/TristanSmeets/Agent-OwO-Tools/master/Images/Monobehaviour1.jpg" alt="Generator Example" width="250"/>
+
 #### Tutorials
 I made step by step tutorials to accompany the tools. Besides just written text there were picture examples to make sure everything was as clear as possible. Thanks to these tutorials designers could easily use the tools I made.
 
-[1]: https://github.com/TristanSmeets/Agent-OwO
+<img src="https://raw.githubusercontent.com/TristanSmeets/Agent-OwO-Tools/master/Images/Tutorial2.jpg" alt="Tutorial Example" width="250"/>
