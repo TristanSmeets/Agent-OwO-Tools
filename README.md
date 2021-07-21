@@ -2,7 +2,7 @@
 ![](Images/tools-thumb.jpg)
 
 ### Description
-For the assignment that turned into Agent OwO we had to create a game using our own c++ engine. This also meant there were no GUI editors available for the engine. For more info on the Agent OwO project see the [Agent OwO repository][1].
+For the assignment that turned into Agent OwO we had to create a game using our own c++ engine. This also meant there were no GUI editors available for the engine. For more info on the Agent OwO project see the [Agent OwO repository](https://github.com/TristanSmeets/Agent-OwO).
 
 During the project I made a couple of tools in Unity. I created the tools for Unity because the designers were already familiar with Unity.
 
